@@ -2,7 +2,7 @@
 
 Data da execução: 18/04/2025  
 Responsável: Rafaela Machado  
-Ambiente: Web – ambiente acadêmico de testes  
+Ambiente: local de desenvolvimento e validação em produção
 
 ---
 
@@ -21,5 +21,6 @@ Observações:
 Resultado: **Falhou**
 
 Observações:
-- O sistema não apresentou mensagem de erro clara ao usuário.
-- Comportamento pode gerar confusão durante o uso.
+
+- Sistema não apresentou mensagem de erro ao usuário.
+- Bug registrado: BUG-01
